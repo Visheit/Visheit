@@ -1,4 +1,4 @@
-- 👋 Hello everyone, my name is Yevhenii.
+- 👋 Hello everyone, my name is <b>Yevhenii</b>.
 - 🏢 I'm getting master's degree at National University Poltava Polytechnic
 - ♟️ Things that I most interested in is Python, C#, Neural Networks and Computer Vision
 - 📖 I’m currently learning Python and Neural Networks
